@@ -1,0 +1,33 @@
+
+body {
+    background: url('https://image.freepik.com/free-vector/cats-pattern_1069-159.jpg?1');
+}
+
+h2 span, p {
+    background-color: rgba(222, 184, 135, 0.6);
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    color: red;
+    background-color:burlywood;
+    padding: 1%;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+p {
+    text-align: justify;
+    padding: 1%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
